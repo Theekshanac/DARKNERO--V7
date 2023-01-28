@@ -24,9 +24,9 @@ global.location = "Sri Lanka, Gampaha, Kurunegala" //ur location
 
 //bot bomdy 
 global.ownernomer = "94713378049" //ur number
-global.premium = ['94774071805'] //ur premium number
+global.premium = ['94713378049'] //ur premium number
 global.botname = 'DarkNero Bot MD V7' //ur bot name
-global.linkz = "https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX" //your theme url which will be displayed on whatsapp
+global.linkz = "https://chat.whatsapp.com/GRH4s8H4bSgFRinC5EK2pL" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/@kaveebroyt5303" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARKNERO--V7' //script link
 global.themeemoji = "🐨" //ur theme emoji
